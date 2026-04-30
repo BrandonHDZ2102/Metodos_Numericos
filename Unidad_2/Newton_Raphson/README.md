@@ -20,7 +20,7 @@ Es un algoritmo eficiente para encontrar aproximaciones de los ceros o raíces d
 La fórmula iterativa de Newton-Raphson es:
 $x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$
 
-*Requiere que la derivada $f'(x_n)$ no sea cero en el punto de evaluación.*
+*Requiere que la derivada $ f'(x_n) $ no sea cero en el punto de evaluación.*
 
 ---
 [Volver a Unidad 2](../)
