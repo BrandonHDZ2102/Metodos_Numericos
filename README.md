@@ -10,6 +10,7 @@
 | **01: Teoría de Errores** | Análisis de precisión y estabilidad. | [Ver archivos](./Unidad_1) |
 | **02: Raíces de Ecuaciones** | Solución de funciones no lineales. | [Ver archivos](./Unidad_2) |
 | **03: Sistemas Lineales** | Resolución de matrices complejas. | [Ver archivos](./Unidad_3) |
+| **04: Sistemas Lineales** | Resolución de matrices complejas. | [Ver archivos](./Unidad_3) |
 
 ---
 
