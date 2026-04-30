@@ -1,24 +1,25 @@
-# 📘 Unidad 1: Teoría de Errores
+# 📘 Unidad 1: Análisis de Errores y Computación Numérica
 
-En este módulo se exploran los fundamentos del cálculo numérico, enfocándose en cómo las computadoras procesan números y los tipos de errores que surgen durante estos procesos.
-
----
-
-## 📋 Lista de Prácticas
-
-| Archivo | Descripción del Algoritmo |
-| :--- | :--- |
-| `Epsilon.py` | Determina el límite de precisión de la máquina. |
-| `Taylor_Series.py` | Aproximación de funciones mediante polinomios. |
-| `Errores.py` | Cálculo de error absoluto, relativo y porcentual. |
-| `Overflow_Underflow.py` | Demostración de límites de almacenamiento numérico. |
+Esta unidad se enfoca en comprender cómo la arquitectura de la computadora maneja los números y la naturaleza de las aproximaciones numéricas.
 
 ---
 
-## 🧠 Conceptos Clave
-1. **Épsilon de la Máquina:** El número más pequeño que, sumado a 1, da un resultado diferente de 1.
-2. **Error de Truncamiento:** Surge al usar una aproximación en lugar de un procedimiento matemático exacto.
-3. **Error de Redondeo:** Originado por la capacidad limitada de la memoria para almacenar dígitos decimales.
+## 📋 Prácticas Desarrolladas
+
+| # | Archivo | Descripción |
+| :--- | :--- | :--- |
+| 1 | `1_Error_Redondeo.py` | Análisis de la pérdida de precisión por limitación de bits. |
+| 2 | `2_Error_Truncamiento.py` | Aproximación de funciones omitiendo términos infinitos. |
+| 3 | `3_Precision_Maquina.py` | Cálculo del Épsilon (valor mínimo distinguible). |
+| 4 | `4_Error_Aritmetico.py` | Evaluación de errores absoluto, relativo y porcentual. |
+| 5 | `5_Decimal_Binario.py` | Conversor de base numérica para entender el almacenamiento. |
+
+---
+
+## ⚙️ Conceptos Clave
+* **Truncamiento:** Error introducido al finalizar un proceso infinito (como una serie) en un paso finito.
+* **Redondeo:** Ajuste del último dígito significativo debido al espacio de memoria limitado.
+* **Aritmética de punto flotante:** Estándar IEEE 754 utilizado por las computadoras modernas.
 
 ---
 [Ir al inicio del repositorio](../)
