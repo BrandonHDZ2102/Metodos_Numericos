@@ -8,7 +8,7 @@ Esta unidad se enfoca en comprender cómo la arquitectura de la computadora mane
 
 | # | Archivo | Descripción | Enlace Directo |
 | :--- | :--- | :--- | :--- |
-| 1 | `1_Error_Redondeo.py` | Análisis de la pérdida de precisión por limitación de bits. | [Ver Código](#código-1) |
+| 1 | `1_Error_Redondeo.py` | Análisis de la pérdida de precisión por limitación de bits. | [Ver Código](#1_Error_Redondeo.py) |
 | 2 | `2_Error_Truncamiento.py` | Aproximación de funciones omitiendo términos infinitos. | [Ver Código](#código-2) |
 | 3 | `3_Precision_Maquina.py` | Cálculo del Épsilon (valor mínimo distinguible). | [Ver Código](#código-3) |
 | 4 | `4_Error_Aritmetico.py` | Evaluación de errores absoluto, relativo y porcentual. | [Ver Código](#código-4) |
