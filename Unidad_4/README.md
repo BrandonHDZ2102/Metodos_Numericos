@@ -1,23 +1,15 @@
 # 📐 Unidad 4: Diferenciación e Integración Numérica
 
-En esta unidad se implementan métodos para aproximar derivadas e integrales definidas cuando no se conoce la función exacta o su integración analítica es compleja.
+Esta unidad se divide en dos áreas fundamentales para el cálculo numérico: la aproximación de derivadas y el cálculo de integrales definidas mediante métodos algorítmicos.
 
 ---
 
-## 📂 Métodos Disponibles
+## 📂 Subtemas
 
-### 1. Diferenciación Numérica
-| Método | Tipo | Explorar |
+| Categoría | Descripción | Explorar |
 | :--- | :--- | :--- |
-| **Diferencias de 3 Puntos** | Progresiva / Regresiva / Central | [Ir a Ejercicios](./Diferenciacion_3_Puntos) |
-| **Diferencias de 5 Puntos** | Alta Precisión | [Ir a Ejercicios](./Diferenciacion_5_Puntos) |
-
-### 2. Integración Numérica
-| Método | Tipo | Explorar |
-| :--- | :--- | :--- |
-| **Trapecio Compuesto** | Newton-Cotes | [Ir a Ejercicios](./Trapecio_Compuesto) |
-| **Simpson 1/3** | Newton-Cotes | [Ir a Ejercicios](./Simpson_1_3) |
-| **Cuadratura Gaussiana** | Cuadratura | [Ir a Ejercicios](./Cuadratura_Gaussiana) |
+| **1. Diferenciación** | Métodos de Diferencias de 3 y 5 puntos. | [Ir a Diferenciación](./Diferenciacion) |
+| **2. Integración** | Trapecio, Simpson y Cuadratura Gaussiana. | [Ir a Integración](./Integracion) |
 
 ---
 [Ir al inicio del repositorio](../)
